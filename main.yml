@@ -1,4 +1,5 @@
 - name: "installing apache"
+- name: "installing php packages"
 - name: "creating httpd.conf"
 - name: "creating virtualhost"
 - name: "restarting/enable apache"
