@@ -1,0 +1,3 @@
+- name: "installing apache"
+- name: "creating httpd.conf"
+- name: "restarting/enable apache"
